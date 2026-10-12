@@ -1,0 +1,43 @@
+pais,codigo_tienda,moneda,fc_points,precio,precio_por_sobre_de_150,consultado,url
+Estados Unidos,US,USD,500,4.99,1.4970,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=US
+Estados Unidos,US,USD,1050,9.99,1.4271,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=US
+Estados Unidos,US,USD,1600,14.99,1.4053,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=US
+Estados Unidos,US,USD,2800,24.99,1.3387,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=US
+Estados Unidos,US,USD,5900,49.99,1.2709,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=US
+Estados Unidos,US,USD,12000,99.99,1.2499,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=US
+Estados Unidos,US,USD,18500,149.99,1.2161,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=US
+España,ES,EUR,500,4.99,1.4970,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=ES
+España,ES,EUR,1050,9.99,1.4271,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=ES
+España,ES,EUR,1600,14.99,1.4053,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=ES
+España,ES,EUR,2800,24.99,1.3387,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=ES
+España,ES,EUR,5900,49.99,1.2709,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=ES
+España,ES,EUR,12000,99.99,1.2499,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=ES
+España,ES,EUR,18500,149.99,1.2161,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=ES
+México,MX,MXN,500,109.00,32.7000,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=MX
+México,MX,MXN,1050,199.00,28.4286,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=MX
+México,MX,MXN,1600,299.00,28.0313,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=MX
+México,MX,MXN,2800,499.00,26.7321,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=MX
+México,MX,MXN,5900,999.00,25.3983,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=MX
+México,MX,MXN,12000,1999.00,24.9875,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=MX
+México,MX,MXN,18500,2999.00,24.3162,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=MX
+Colombia,CO,COP,500,20999.00,6299.7000,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=CO
+Colombia,CO,COP,1050,41999.00,5999.8571,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=CO
+Colombia,CO,COP,1600,61999.00,5812.4062,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=CO
+Colombia,CO,COP,2800,103999.00,5571.3750,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=CO
+Colombia,CO,COP,5900,206999.00,5262.6864,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=CO
+Colombia,CO,COP,12000,413999.00,5174.9875,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=CO
+Colombia,CO,COP,18500,619999.00,5027.0189,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=CO
+Brasil,BR,BRL,500,27.90,8.3700,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=BR
+Brasil,BR,BRL,1050,54.90,7.8429,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=BR
+Brasil,BR,BRL,1600,80.90,7.5844,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=BR
+Brasil,BR,BRL,2800,134.90,7.2268,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=BR
+Brasil,BR,BRL,5900,269.90,6.8619,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=BR
+Brasil,BR,BRL,12000,534.90,6.6862,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=BR
+Brasil,BR,BRL,18500,799.90,6.4857,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=BR
+Reino Unido,GB,GBP,500,4.49,1.3470,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=GB
+Reino Unido,GB,GBP,1050,8.99,1.2843,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=GB
+Reino Unido,GB,GBP,1600,13.49,1.2647,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=GB
+Reino Unido,GB,GBP,2800,21.99,1.1780,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=GB
+Reino Unido,GB,GBP,5900,45.49,1.1565,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=GB
+Reino Unido,GB,GBP,12000,87.99,1.0999,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=GB
+Reino Unido,GB,GBP,18500,129.99,1.0540,2026-10-05,https://store.steampowered.com/api/appdetails?appids=4314910&cc=GB

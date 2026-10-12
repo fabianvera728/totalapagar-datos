@@ -1,0 +1,401 @@
+ea_id,rank,ovr,first_name,last_name,common_name
+231747,1,91,Kylian,Mbappé,
+227203,2,91,Alexia,Putellas Segura,Alexia Putellas
+239085,3,91,Erling,Haaland,
+277643,4,90,Lamine Yamal,Nasraoui Ebana,Lamine Yamal
+202126,5,90,Harry,Kane,
+241667,6,90,Aitana,Bonmatí Conca,Aitana Bonmatí
+231443,7,90,Ousmane,Dembélé,
+231866,8,90,Rodrigo,Hernández Cascante,Rodri
+247827,9,90,Michael,Olise,
+192119,10,90,Thibaut,Courtois,
+246219,11,90,Khadija,Shaw,
+251854,12,90,Pedro,González López,Pedri
+255253,13,90,Vítor,Machado Ferreira,Vitinha
+252371,14,90,Jude,Bellingham,
+247635,15,89,Khvicha,Kvaratskhelia,
+252145,16,89,Nuno Alexandre,Tavares Mendes,Nuno Mendes
+238794,17,89,Vinícius José,de Oliveira Júnior,Vini Jr.
+262531,18,89,Claudia,Pina Medina,Claudia Pina
+158023,19,89,Lionel,Messi,
+212198,20,89,Bruno Miguel,Borges Fernandes,Bruno Fernandes
+227102,21,89,Caroline,Graham Hansen,
+241846,22,89,Ewa,Pajor,
+232580,23,89,Gabriel,dos S. Magalhães,Gabriel
+279799,24,89,Temwa,Chawinga,
+256196,25,89,Willian,Pacho,
+237288,26,89,María Francesca,Caldentey Oliver,Mariona
+230621,27,89,Gianluigi,Donnarumma,
+243715,28,88,William,Saliba,
+272834,29,88,João Pedro,Gonçalves Neves,João Neves
+248822,30,88,Klara,Bühl,
+265898,31,88,Melchie,Dumornay,
+233419,32,88,Raphael,Dias Belloli,Raphinha
+212622,33,88,Joshua,Kimmich,
+220901,34,88,David,Raya Martín,David Raya
+234378,35,88,Declan,Rice,
+235212,36,88,Achraf,Hakimi,
+258980,37,88,Alessia,Russo,
+276359,38,88,Barbra,Banda,
+237289,39,88,Patricia,Guijarro Gutiérrez,Patri Guijarro
+236479,40,88,María Pilar,León Cebrián,Mapi León
+241084,41,88,Luis,Díaz,
+245830,42,88,Yui,Hasegawa,
+203376,43,88,Virgil,van Dijk,
+264012,44,88,Sophia,Wilson,
+200389,45,88,Jan,Oblak,
+231478,46,87,Lautaro,Martínez,
+229558,47,87,Dayot,Upamecano,
+269404,48,87,Salma Celeste,Paralluelo Ayingono,Salma Paralluelo
+215698,49,87,Mike,Maignan,
+258310,50,87,Ann-Katrin,Berger,
+212831,51,87,Alisson,Ramses Becker,Alisson
+239053,52,87,Federico,Valverde,
+207865,53,87,Marcos,Aoás Corrêa,Marquinhos
+233746,54,87,Vivianne,Miedema,
+247819,55,87,Nico,Schlotterbeck,
+259287,56,87,Pernille,Harder,
+209331,57,87,Mohamed,Salah,
+227361,58,87,Kadidiatou,Diani,
+239818,59,87,Rúben Santos,Gato Alves Dias,Rúben Dias
+278219,60,87,Tabitha,Chawinga,
+235073,61,87,Gregor,Kobel,
+227190,62,87,Irene,Paredes Hernández,Irene Paredes
+232075,63,87,Rose,Lavelle,
+224232,64,87,Nicolò,Barella,
+213331,65,87,Jonathan,Tah,
+253436,66,87,Ona,Batlle Pascual,Ona Batlle
+246669,67,87,Bukayo,Saka,
+256790,68,87,Jamal,Musiala,
+263009,69,87,Hannah,Hampton,
+257008,70,87,Lauren,Hemp,
+266928,71,87,Trinity,Rodman,
+226893,72,87,Débora C.,de Oliveira,Debinha
+233662,73,87,Sakina,Karchaoui,
+226271,74,86,Fabián,Ruiz Peña,Fabián Ruiz
+271421,75,86,Désiré,Doué,
+246191,76,86,Julián,Alvarez,
+278046,77,86,Pau,Cubarsí Paredes,Pau Cubarsí
+239231,78,86,Marc,Cucurella Saseta,Cucurella
+237238,79,86,Scott,McTominay,
+243404,80,86,Georgia,Stanway,
+226268,81,86,Federico,Dimarco,
+265239,82,86,Katie,McCabe,
+256079,83,86,Moisés,Caicedo,
+236772,84,86,Dominik,Szoboszlai,
+265674,85,86,Selma,Bacha,
+247851,86,86,Bruno,Guimarães Moura,Bruno Guimarães
+231432,87,86,Lindsey,Heaps,
+247090,88,86,Enzo,Fernández,
+239580,89,86,Gleison Bremer,Silva Nascimento,Bremer
+259532,90,86,Joan,García Pons,Joan García
+234577,91,86,Diogo,Meireles Costa,Diogo Costa
+245879,92,86,Caroline,Weir,
+233731,93,86,Alexander,Isak,
+252154,94,86,Marco,Carnesecchi,
+237383,95,86,Alessandro,Bastoni,
+222665,96,86,Martin,Ødegaard,
+241651,97,86,Viktor,Gyökeres,
+251570,98,86,Rayan,Cherki,
+257001,99,86,Chloe,Kelly,
+256630,100,86,Florian,Wirtz,
+227323,101,86,Guro,Reiten,
+228702,102,86,Frenkie,de Jong,
+246272,103,86,Marie,Katoto,
+264652,104,85,Bradley,Barcola,
+273466,105,85,Alyssa,Thompson,
+211110,106,85,Paulo,Dybala,
+277179,107,85,Fermín,López Marín,Fermín
+246863,108,85,Felix,Nmecha,
+210008,109,85,Adrien,Rabiot,
+246641,110,85,Chiamaka,Nnadozie,
+227353,111,85,Kenza,Dali,
+245882,112,85,Erin,Cuthbert,
+241096,113,85,Sandro,Tonali,
+204935,114,85,Jordan,Pickford,
+246104,115,85,Ryan,Gravenberch,
+227095,116,85,Manuela,Giugliano,
+261733,117,85,Sandy,Baltimore,
+227246,118,85,Lucy,Bronze,
+245697,119,85,Clara,Mateo,
+251517,120,85,Joško,Gvardiol,
+225375,121,85,Konrad,Laimer,
+230872,122,85,Mile,Svilar,
+240714,123,85,Jill,Roord,
+202811,124,85,Emiliano,Martínez,
+208128,125,85,Hakan,Çalhanoğlu,
+226161,126,85,Marcos,Llorente Moreno,Marcos Llorente
+268942,127,85,Catalina Thomas,Coll Lluch,Cata Coll
+245956,128,85,Christiane,Endler,
+210035,129,85,Alejandro,Grimaldo García,Grimaldo
+224293,130,85,Rúben Diogo,da Silva Neves,Rúben Neves
+265249,131,85,Lauren,James,
+245037,132,85,Eric,García Martret,Eric García
+230869,133,85,Unai,Simón Mendibil,Unai Simón
+227254,134,85,Alex,Greenwood,
+265293,135,85,Maya,Le Tissier,
+241236,136,85,Antoine,Semenyo,
+228093,137,85,Marcus,Thuram,
+240030,138,85,Ellie,Carpenter,
+265340,139,85,Jess,Park,
+241486,140,85,Jules,Koundé,
+232293,141,85,Victor,Osimhen,
+227337,142,85,Svenja,Huth,
+232202,143,85,Delphine,Cascarino,
+267234,144,85,Kerolin Nicoli,Israel Ferraz,Kerolin Nicoli
+192985,145,85,Kevin,De Bruyne,
+227125,146,85,Sam,Kerr,
+177003,147,85,Luka,Modrić,
+216393,148,85,Youri,Tielemans,
+227110,149,85,Caitlin,Foord,
+257534,150,85,Cole,Palmer,
+264875,151,85,Kerstin,Casparij,
+273136,152,85,Lorena,da Silva Leite,Lorena
+215441,153,85,Serhou,Guirassy,
+273153,154,85,Linda,Caicedo,
+199503,155,85,Granit,Xhaka,
+246426,156,85,Leah,Williamson,
+248343,157,85,Emily,Fox,
+227310,158,85,Ada,Hegerberg,
+257289,159,85,Hugo,Ekitiké,
+244302,160,85,Lea,Schüller,
+232073,161,85,Mallory,Swanson,
+242830,162,85,Keira,Walsh,
+244176,163,85,Deniz,Undav,
+241159,164,85,Marc,Guéhi,
+227013,165,84,Fridolina,Rolfö,
+237197,166,84,Grace,Geyoro,
+264936,167,84,Géraldine,Reuteler,
+227119,168,84,Steph,Catley,
+267384,169,84,Taylor,Flint,
+267530,170,84,Esmee,Brugts,
+245802,171,84,Beth,Mead,
+238074,172,84,Reece,James,
+245872,173,84,Kim,Little,
+265063,174,84,Janina,Minge,
+260247,175,84,Morgan,Rogers,
+264947,176,84,Nicole,Anyomi,
+247788,177,84,Giulia,Gwinn,
+223848,178,84,Sergej,Milinković-Savić,
+228813,179,84,Aleix,García Serrano,Aleix García
+231281,180,84,Trent,Alexander-Arnold,
+241637,181,84,Aurélien,Tchouaméni,
+177683,182,84,Yann,Sommer,
+240638,183,84,Tijjani,Reijnders,
+254243,184,84,Elliot,Anderson,
+272094,185,84,Fiamma,Benítez Ianuzzi,Fiamma Benítez
+243014,186,84,Bryan,Mbeumo,
+194765,187,84,Antoine,Griezmann,
+277954,188,84,Kenan,Yıldız,
+261740,189,84,Jule,Brand,
+265536,190,84,Damaris Berta,Egurrola Wienke,Damaris Egurrola
+239837,191,84,Alexis,Mac Allister,
+265025,192,84,Selina,Cerci,
+242896,193,84,Ingrid Syrstad,Engen,
+248148,194,84,Martín,Zubimendi Ibáñez,Zubimendi
+193698,195,84,Oliver,Baumann,
+78012,196,84,Yan,Diomande,
+235794,197,84,Eberechi,Eze,
+241461,198,84,Ferran,Torres García,Ferran Torres
+246420,199,84,Jérémy,Doku,
+277846,200,84,Nicolás,Paz Martínez,Nico Paz
+234579,201,84,Julián,Quiñones,
+263011,202,84,Ella,Toone,
+240243,203,84,Matheus Santos,Carneiro da Cunha,Matheus Cunha
+240130,204,84,Éder,Gabriel Militão,Éder Militão
+248717,205,84,Lena,Oberdorf,
+261773,206,84,Laura,Freigang,
+258706,207,84,Melvine,Malard,
+230142,208,84,Mikel,Oyarzabal Ugarte,Oyarzabal
+267382,209,84,Naomi,Girma,
+271446,210,84,Victoria,López Serrano Felix,Vicky López
+227678,211,84,Ezri,Konsa,
+237692,212,84,Phil,Foden,
+251805,213,84,Jurriën,Timber,
+256197,214,84,Piero,Hincapié,
+222077,215,84,Manuel,Locatelli,
+256516,216,84,Nicholas,Williams Arthuer,Nico Williams
+236987,217,84,Boubacar,Kamara,
+188545,218,84,Robert,Lewandowski,
+226890,219,84,Marta,Vieira da Silva,Marta
+218667,220,84,Bernardo Mota,Carvalho e Silva,Bernardo Silva
+210676,221,84,Wladimiro,Falcone,
+245824,222,84,Ayaka,Yamashita,
+259372,223,84,Athenea,Del Castillo,Athenea
+244260,224,84,Daniel,Olmo Carvajal,Dani Olmo
+264886,225,84,Glódís Perla,Viggósdóttir,
+266091,226,84,Ashley,Sanchez,
+243812,227,84,Rodrygo,Silva de Goes,Rodrygo
+239345,228,84,Linda,Dallmann,
+229476,229,84,Waldemar,Anton,
+227316,230,84,Wendie,Renard,
+20801,231,84,C. Ronaldo,dos Santos Aveiro,Cristiano Ronaldo
+212218,232,84,Aymeric,Laporte,
+229582,233,84,Gianluca,Mancini,
+237678,234,84,Ibrahima,Konaté,
+247513,235,84,Vanessa,Gilles,
+212616,236,83,Rodrigo,De Paul,
+227327,237,83,Sara,Däbritz,
+262457,238,83,Olga,Carmona García,Olga Carmona
+210881,239,83,John,McGinn,
+210514,240,83,João Pedro,Cavaco Cancelo,João Cancelo
+261855,241,83,Francisca Ramos,Nazareth Sousa,Kika Nazareth
+270673,242,83,Warren,Zaïre-Emery,
+272163,243,83,Elena,Julve Pérez,Elena Julve
+277427,244,83,Nico,O'Reilly,
+227392,245,83,Ashley,Lawrence,
+233096,246,83,Denzel,Dumfries,
+253124,247,83,Matheus,Luiz Nunes,Matheus Nunes
+258680,248,83,Daphne,van Domselaar,
+266933,249,83,Arianna,Caruso,
+244669,250,83,Morten,Hjulmand,
+272449,251,83,Pablo,Barrios Rivas,Pablo Barrios
+267217,252,83,Sam,Coffey,
+272115,253,83,Leicy,Santos,
+265035,254,83,Elisa,Senß,
+243576,255,83,Pedro Antonio,Porro Sauceda,Pedro Porro
+236703,256,83,David,Raum,
+266973,257,83,Giada,Greggi,
+247103,258,83,Dávid,Hancko,
+267336,259,83,Lo'eau,LaBonta,
+236015,260,83,Morgan,Gibbs-White,
+259480,261,83,Ismael,Saibari,
+265377,262,83,Vanessa,Fudalla,
+240717,263,83,Lineth,Beerensteyn,
+240225,264,83,Matvey,Safonov,
+273946,265,83,Korbin,Shrader,
+275298,266,83,Aleksandar,Pavlović,
+264895,267,83,Constance,Picaud-Inconnu,
+262093,268,83,Sjoeke,Nüsken,
+224987,269,83,Ivan,Provedel,
+215914,270,83,N'Golo,Kanté,
+266127,271,83,Lewis,Hall,
+267212,272,83,Phallon,Tullis-Joyce,
+193080,273,83,David,De Gea Quintana,De Gea
+257279,274,83,Alejandro,Baena Rodríguez,Álex Baena
+231521,275,83,Exequiel,Palacios,
+262621,276,83,Giorgi,Mamardashvili,
+227647,277,83,Maximilian,Mittelstädt,
+225193,278,83,Mikel,Merino Zazón,Mikel Merino
+232074,279,83,Emily,Sonnett,
+267223,280,83,Olivia,Moultrie,
+266384,281,83,Sveindís Jane,Jónsdóttir,
+264240,282,83,Pablo Martín,Páez Gavira,Gavi
+212228,283,83,Ivan,Toney,
+266816,284,83,Aubrey,Kingsbury,
+227796,285,83,Christian,Pulisic,
+265905,286,83,Vicki,Becho,
+242444,287,83,João,Félix Sequeira,João Félix
+203980,288,83,Konstantinos,Fortounis,
+221697,289,83,Ollie,Watkins,
+216435,290,83,Stanislav,Lobotka,
+241721,291,83,Rafael,da Conceição Leão,Rafael Leão
+205452,292,83,Antonio,Rüdiger,
+264309,293,83,Arda,Güler,
+244778,294,83,Francisco,Trincão,Trincão
+250959,295,83,Angelo,Stiller,
+227073,296,83,Cristiana,Girelli,
+224371,297,83,Jarrod,Bowen,
+231447,298,83,Donyell,Malen,
+236403,299,83,Evan,Ndicka,
+229237,300,83,Manuel,Akanji,
+206113,301,83,Serge,Gnabry,
+247257,302,83,Roger,Ibañez da Silva,Ibañez
+233364,303,83,Stina,Blackstenius,
+252042,304,83,João Pedro,Junqueira de Jesus,João Pedro
+246147,305,83,Mason,Greenwood,
+204525,306,83,Iñigo,Martínez Berridi,Iñigo Martínez
+264864,307,83,Kessya,Bussy,
+271944,308,83,María,Méndez Fernández,María Méndez
+277452,309,83,Edna,Imade,Edna Imade
+230899,310,83,Ademola,Lookman,
+197781,311,83,Francisco Román,Alarcón Suárez,Isco
+277926,312,83,Manaka,Matsukubo,
+216549,313,83,Alexander,Sørloth,
+213345,314,83,Kingsley,Coman,
+234236,315,83,Patrik,Schick,
+227346,316,83,Griedge,Mbock,
+200145,317,83,Carlos Henrique,Venancio Casimiro,Casemiro
+267531,318,83,Romée,Leuchter,
+244263,319,83,Amir,Rrahmani,
+207862,320,83,Matthias,Ginter,
+246774,321,83,Alba,Redondo Ferrer,Alba Redondo
+272084,322,83,Lauren,Eduarda Leal Costa,Lauren Leal
+226998,323,83,Magdalena,Eriksson,
+237086,324,83,Min Jae,Kim,Kim Min Jae
+279532,325,83,Jade,Rose,
+204638,326,83,Willi,Orbán,
+232656,327,82,Theo,Hernández,
+264725,328,82,Eva María,Navarro García,Eva Navarro
+210257,329,82,Ederson,Santana de Moraes,Ederson
+266866,330,82,Éderson José,dos Santos,Éderson
+234396,331,82,Alphonso,Davies,
+272224,332,82,Natalia,Ramos Álvarez,Natalia Ramos
+227096,333,82,Lisa,Boattin,
+279015,334,82,Victor,Froholdt,
+262460,335,82,Rosa,Márquez Baena,Rosa Márquez
+244675,336,82,Oihan,Sancet Tirapu,Sancet
+251377,337,82,Rodrigo,Zalazar,
+272007,338,82,Paula,Fernández Jiménez,Paula Fernández
+227236,339,82,André-Franck,Zambo Anguissa,
+243245,340,82,Orkun,Kökçü,
+247790,341,82,Lena,Lattwein,
+219683,342,82,Corentin,Tolisso,
+253396,343,82,Giuliano,Simeone,Giuliano
+208418,344,82,Yannick,Carrasco,
+233306,345,82,Dean,Henderson,
+217870,346,82,Giovanni,Di Lorenzo,
+258789,347,82,María Isabel,Rodríguez Rivero,Misa
+263007,348,82,Niamh,Charles,
+262330,349,82,Catarina,Cantanhede Macario,Catarina Macario
+233747,350,82,Sherida,Spitse,
+192448,351,82,Marc-André,ter Stegen,
+238470,352,82,Sara,Doorsoun,
+227204,353,82,Dolores,Gallardo Núñez,Lola Gallardo
+247789,354,82,Merle,Frohms,
+237646,355,82,Daniel,Muñoz,
+239761,356,82,Frida,Maanum,
+243657,357,82,James,Garner,
+229891,358,82,Julian,Ryerson,
+210406,359,82,Piotr,Zieliński,
+271860,360,82,Ena,Mahmutovic,
+227776,361,82,Sandra,Paños Garcia,Sandra Paños
+254803,362,82,Senne,Lammens,
+257711,363,82,Riccardo,Calafiori,
+240950,364,82,Pedro António,Pereira Gonçalves,Pedro Gonçalves
+242964,365,82,Anthony,Gordon,
+192984,366,82,Koen,Casteels,
+237673,367,82,Kailen,Sheridan,
+247504,368,82,Mary,Earps,
+265861,369,82,Maëlle,Garbino,
+267227,370,82,Yazmeen,Ryan,
+233556,371,82,Riccardo,Orsolini,
+261843,372,82,Andreia,de Jesus Jacinto,Andreia Jacinto
+220502,373,82,Mattia,Zaccagni,
+214979,374,82,Juan,Musso,
+265058,375,82,Erëleta,Memeti,
+208722,376,82,Sadio,Mané,
+241491,377,82,Johanna,Kaneryd,
+209981,378,82,Yassine,Bounou,
+233756,379,82,Dominique,Janssen,
+242516,380,82,Cody,Gakpo,
+185122,381,82,Péter,Gulácsi,
+263578,382,82,Alejandro,Balde Martínez,Balde
+264388,383,82,Alberto,Moleiro González,Moleiro
+229188,384,82,Vangelis,Pavlidis,
+274780,385,82,Luany Vitória,da Silva Rosa,Luany
+264922,386,82,Kristin,Kögel,
+239344,387,82,Carolin,Simon,
+272110,388,82,Andrea,Medina Martin,Andrea Medina
+264865,389,82,Mylène,Chavas,
+247263,390,82,Edmond,Tapsoba,
+213516,391,82,Ricardo Jorge,da Luz Horta,Ricardo Horta
+264939,392,82,Lara,Prašnikar,
+278016,393,82,Murillo,Costa dos Santos,Murillo
+242187,394,82,Christoph,Baumgartner,
+209499,395,82,Fábio,Henrique Tavares,Fabinho
+231677,396,82,Marcus,Rashford,
+260592,397,82,Benjamin,Šeško,
+251852,398,82,Karim,Adeyemi,
+245158,399,82,Luis Javier,Suárez,
+206517,400,82,Jack,Grealish,

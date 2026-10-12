@@ -1,0 +1,455 @@
+{
+  "meta": {
+    "fecha": "2026-10-05",
+    "semilla": 27,
+    "n_sobres_sim1": 10000,
+    "n_jugadores_sim2": 10000,
+    "pool_84plus": 235,
+    "pool_por_rating": {
+      "91": 3,
+      "90": 11,
+      "89": 13,
+      "88": 18,
+      "87": 28,
+      "86": 30,
+      "85": 61,
+      "84": 71
+    },
+    "suposiciones": [
+      "S1 prob. mínima = exacta",
+      "S2 máx. un 84+ por sobre",
+      "S3 uniforme entre los 84+ (optimista para cartas top)",
+      "S4 sin cartas especiales ni mercado",
+      "S5 dinero al mejor precio por punto"
+    ]
+  },
+  "sim1_abrir_10000_large_gold": {
+    "conteos": {
+      "sobres": 10000,
+      "con_82_o_mas": 5501,
+      "con_TOTW": 117,
+      "con_84_o_mas": 862,
+      "con_90_o_mas": 50,
+      "con_un_91": 10,
+      "con_Kylian_Mbappé": 3,
+      "sin_nada_84_o_mas": 9138
+    },
+    "84plus_por_rating": {
+      "91": 10,
+      "90": 40,
+      "89": 45,
+      "88": 63,
+      "87": 117,
+      "86": 103,
+      "85": 223,
+      "84": 261
+    }
+  },
+  "sim2_perseguir_mbappe_large_gold": {
+    "objetivo": "Kylian Mbappé (oro base 91)",
+    "sobre": "Large Gold Pack",
+    "fc_points_por_sobre": 150,
+    "p_por_sobre": 0.00037446808510638297,
+    "uno_en_N_sobres": 2670,
+    "teorico_media_sobres": 2670.5,
+    "teorico_mediana_sobres": 1851,
+    "sim_media_sobres": 2654.8,
+    "sim_mediana_sobres": 1812.5,
+    "sim_p90_sobres": 6142,
+    "sim_p99_sobres": 12428,
+    "sim_min_sobres": 1,
+    "sim_max_sobres": 23709,
+    "pct_jugadores_que_lo_sacan_en_10_sobres_o_menos": 0.44,
+    "fc_points_media": 398216,
+    "dinero_media": {
+      "USD": {
+        "al_precio_del_paquete_18500": 3228.57,
+        "al_precio_del_paquete_12000": 3318.14
+      },
+      "EUR": {
+        "al_precio_del_paquete_18500": 3228.57,
+        "al_precio_del_paquete_12000": 3318.14
+      },
+      "MXN": {
+        "al_precio_del_paquete_18500": 64554.12,
+        "al_precio_del_paquete_12000": 66336.23
+      },
+      "COP": {
+        "al_precio_del_paquete_18500": 13345611.69,
+        "al_precio_del_paquete_12000": 13738435.2
+      },
+      "BRL": {
+        "al_precio_del_paquete_18500": 17218.02,
+        "al_precio_del_paquete_12000": 17750.5
+      }
+    },
+    "fc_points_mediana": 271875,
+    "dinero_mediana": {
+      "USD": {
+        "al_precio_del_paquete_18500": 2204.24,
+        "al_precio_del_paquete_12000": 2265.4
+      },
+      "EUR": {
+        "al_precio_del_paquete_18500": 2204.24,
+        "al_precio_del_paquete_12000": 2265.4
+      },
+      "MXN": {
+        "al_precio_del_paquete_18500": 44073.14,
+        "al_precio_del_paquete_12000": 45289.84
+      },
+      "COP": {
+        "al_precio_del_paquete_18500": 9111471.79,
+        "al_precio_del_paquete_12000": 9379664.84
+      },
+      "BRL": {
+        "al_precio_del_paquete_18500": 11755.29,
+        "al_precio_del_paquete_12000": 12118.83
+      }
+    },
+    "fc_points_p90": 921300,
+    "dinero_p90": {
+      "USD": {
+        "al_precio_del_paquete_18500": 7469.5,
+        "al_precio_del_paquete_12000": 7676.73
+      },
+      "EUR": {
+        "al_precio_del_paquete_18500": 7469.5,
+        "al_precio_del_paquete_12000": 7676.73
+      },
+      "MXN": {
+        "al_precio_del_paquete_18500": 149350.2,
+        "al_precio_del_paquete_12000": 153473.23
+      },
+      "COP": {
+        "al_precio_del_paquete_18500": 30875950.2,
+        "al_precio_del_paquete_12000": 31784773.22
+      },
+      "BRL": {
+        "al_precio_del_paquete_18500": 39835.02,
+        "al_precio_del_paquete_12000": 41066.95
+      }
+    },
+    "fc_points_p99": 1864200,
+    "dinero_p99": {
+      "USD": {
+        "al_precio_del_paquete_18500": 15114.13,
+        "al_precio_del_paquete_12000": 15533.45
+      },
+      "EUR": {
+        "al_precio_del_paquete_18500": 15114.13,
+        "al_precio_del_paquete_12000": 15533.45
+      },
+      "MXN": {
+        "al_precio_del_paquete_18500": 302201.94,
+        "al_precio_del_paquete_12000": 310544.65
+      },
+      "COP": {
+        "al_precio_del_paquete_18500": 62475791.12,
+        "al_precio_del_paquete_12000": 64314744.65
+      },
+      "BRL": {
+        "al_precio_del_paquete_18500": 80603.98,
+        "al_precio_del_paquete_12000": 83096.71
+      }
+    }
+  },
+  "sim3_perseguir_mbappe_full_swing": {
+    "objetivo": "Kylian Mbappé (oro base 91)",
+    "sobre": "Full Swing Pack",
+    "fc_points_por_sobre": 400,
+    "p_por_sobre": 0.002723404255319149,
+    "uno_en_N_sobres": 367,
+    "teorico_media_sobres": 367.2,
+    "teorico_mediana_sobres": 255,
+    "sim_media_sobres": 372.1,
+    "sim_mediana_sobres": 260.0,
+    "sim_p90_sobres": 852,
+    "sim_p99_sobres": 1698,
+    "sim_min_sobres": 1,
+    "sim_max_sobres": 2930,
+    "pct_jugadores_que_lo_sacan_en_10_sobres_o_menos": 2.79,
+    "fc_points_media": 148838,
+    "dinero_media": {
+      "USD": {
+        "al_precio_del_paquete_18500": 1206.72,
+        "al_precio_del_paquete_12000": 1240.19
+      },
+      "EUR": {
+        "al_precio_del_paquete_18500": 1206.72,
+        "al_precio_del_paquete_12000": 1240.19
+      },
+      "MXN": {
+        "al_precio_del_paquete_18500": 24127.87,
+        "al_precio_del_paquete_12000": 24793.96
+      },
+      "COP": {
+        "al_precio_del_paquete_18500": 4988081.64,
+        "al_precio_del_paquete_12000": 5134904.12
+      },
+      "BRL": {
+        "al_precio_del_paquete_18500": 6435.44,
+        "al_precio_del_paquete_12000": 6634.46
+      }
+    },
+    "fc_points_mediana": 104000,
+    "dinero_mediana": {
+      "USD": {
+        "al_precio_del_paquete_18500": 843.19,
+        "al_precio_del_paquete_12000": 866.58
+      },
+      "EUR": {
+        "al_precio_del_paquete_18500": 843.19,
+        "al_precio_del_paquete_12000": 866.58
+      },
+      "MXN": {
+        "al_precio_del_paquete_18500": 16859.24,
+        "al_precio_del_paquete_12000": 17324.67
+      },
+      "COP": {
+        "al_precio_del_paquete_18500": 3485399.78,
+        "al_precio_del_paquete_12000": 3587991.33
+      },
+      "BRL": {
+        "al_precio_del_paquete_18500": 4496.74,
+        "al_precio_del_paquete_12000": 4635.8
+      }
+    },
+    "fc_points_p90": 340800,
+    "dinero_p90": {
+      "USD": {
+        "al_precio_del_paquete_18500": 2763.06,
+        "al_precio_del_paquete_12000": 2839.72
+      },
+      "EUR": {
+        "al_precio_del_paquete_18500": 2763.06,
+        "al_precio_del_paquete_12000": 2839.72
+      },
+      "MXN": {
+        "al_precio_del_paquete_18500": 55246.44,
+        "al_precio_del_paquete_12000": 56771.6
+      },
+      "COP": {
+        "al_precio_del_paquete_18500": 11421386.98,
+        "al_precio_del_paquete_12000": 11757571.6
+      },
+      "BRL": {
+        "al_precio_del_paquete_18500": 14735.46,
+        "al_precio_del_paquete_12000": 15191.16
+      }
+    },
+    "fc_points_p99": 679200,
+    "dinero_p99": {
+      "USD": {
+        "al_precio_del_paquete_18500": 5506.66,
+        "al_precio_del_paquete_12000": 5659.43
+      },
+      "EUR": {
+        "al_precio_del_paquete_18500": 5506.66,
+        "al_precio_del_paquete_12000": 5659.43
+      },
+      "MXN": {
+        "al_precio_del_paquete_18500": 110103.83,
+        "al_precio_del_paquete_12000": 113143.4
+      },
+      "COP": {
+        "al_precio_del_paquete_18500": 22762341.66,
+        "al_precio_del_paquete_12000": 23432343.4
+      },
+      "BRL": {
+        "al_precio_del_paquete_18500": 29367.14,
+        "al_precio_del_paquete_12000": 30275.34
+      }
+    }
+  },
+  "sim4_cualquier_91_large_gold": {
+    "objetivo": "cualquiera de los 3 jugadores 91",
+    "sobre": "Large Gold Pack",
+    "fc_points_por_sobre": 150,
+    "p_por_sobre": 0.001123404255319149,
+    "uno_en_N_sobres": 890,
+    "teorico_media_sobres": 890.2,
+    "teorico_mediana_sobres": 617,
+    "sim_media_sobres": 881.0,
+    "sim_mediana_sobres": 606.0,
+    "sim_p90_sobres": 2047,
+    "sim_p99_sobres": 4031,
+    "sim_min_sobres": 1,
+    "sim_max_sobres": 8803,
+    "pct_jugadores_que_lo_sacan_en_10_sobres_o_menos": 1.11,
+    "fc_points_media": 132157,
+    "dinero_media": {
+      "USD": {
+        "al_precio_del_paquete_18500": 1071.47,
+        "al_precio_del_paquete_12000": 1101.2
+      },
+      "EUR": {
+        "al_precio_del_paquete_18500": 1071.47,
+        "al_precio_del_paquete_12000": 1101.2
+      },
+      "MXN": {
+        "al_precio_del_paquete_18500": 21423.74,
+        "al_precio_del_paquete_12000": 22015.17
+      },
+      "COP": {
+        "al_precio_del_paquete_18500": 4429042.45,
+        "al_precio_del_paquete_12000": 4559409.8
+      },
+      "BRL": {
+        "al_precio_del_paquete_18500": 5714.19,
+        "al_precio_del_paquete_12000": 5890.9
+      }
+    },
+    "fc_points_mediana": 90900,
+    "dinero_mediana": {
+      "USD": {
+        "al_precio_del_paquete_18500": 736.98,
+        "al_precio_del_paquete_12000": 757.42
+      },
+      "EUR": {
+        "al_precio_del_paquete_18500": 736.98,
+        "al_precio_del_paquete_12000": 757.42
+      },
+      "MXN": {
+        "al_precio_del_paquete_18500": 14735.63,
+        "al_precio_del_paquete_12000": 15142.42
+      },
+      "COP": {
+        "al_precio_del_paquete_18500": 3046373.46,
+        "al_precio_del_paquete_12000": 3136042.42
+      },
+      "BRL": {
+        "al_precio_del_paquete_18500": 3930.32,
+        "al_precio_del_paquete_12000": 4051.87
+      }
+    },
+    "fc_points_p90": 307050,
+    "dinero_p90": {
+      "USD": {
+        "al_precio_del_paquete_18500": 2489.43,
+        "al_precio_del_paquete_12000": 2558.49
+      },
+      "EUR": {
+        "al_precio_del_paquete_18500": 2489.43,
+        "al_precio_del_paquete_12000": 2558.49
+      },
+      "MXN": {
+        "al_precio_del_paquete_18500": 49775.29,
+        "al_precio_del_paquete_12000": 51149.41
+      },
+      "COP": {
+        "al_precio_del_paquete_18500": 10290307.73,
+        "al_precio_del_paquete_12000": 10593199.41
+      },
+      "BRL": {
+        "al_precio_del_paquete_18500": 13276.18,
+        "al_precio_del_paquete_12000": 13686.75
+      }
+    },
+    "fc_points_p99": 604650,
+    "dinero_p99": {
+      "USD": {
+        "al_precio_del_paquete_18500": 4902.24,
+        "al_precio_del_paquete_12000": 5038.25
+      },
+      "EUR": {
+        "al_precio_del_paquete_18500": 4902.24,
+        "al_precio_del_paquete_12000": 5038.25
+      },
+      "MXN": {
+        "al_precio_del_paquete_18500": 98018.67,
+        "al_precio_del_paquete_12000": 100724.61
+      },
+      "COP": {
+        "al_precio_del_paquete_18500": 20263913.26,
+        "al_precio_del_paquete_12000": 20860374.61
+      },
+      "BRL": {
+        "al_precio_del_paquete_18500": 26143.76,
+        "al_precio_del_paquete_12000": 26952.27
+      }
+    }
+  },
+  "presupuestos_large_gold": [
+    {
+      "presupuesto": "5.900 FC Points (USD/EUR 49,99)",
+      "fc_points": 5900,
+      "sobres": 39,
+      "p_de_sacarlo_pct": 1.45
+    },
+    {
+      "presupuesto": "12.000 FC Points (USD/EUR 99,99)",
+      "fc_points": 12000,
+      "sobres": 80,
+      "p_de_sacarlo_pct": 2.95
+    },
+    {
+      "presupuesto": "18.500 FC Points (USD/EUR 149,99)",
+      "fc_points": 18500,
+      "sobres": 123,
+      "p_de_sacarlo_pct": 4.5
+    },
+    {
+      "presupuesto": "5 x 18.500 FC Points (USD/EUR 749,95)",
+      "fc_points": 92500,
+      "sobres": 616,
+      "p_de_sacarlo_pct": 20.6
+    }
+  ],
+  "presupuestos_full_swing": [
+    {
+      "presupuesto": "5.900 FC Points (USD/EUR 49,99)",
+      "fc_points": 5900,
+      "sobres": 14,
+      "p_de_sacarlo_pct": 3.75
+    },
+    {
+      "presupuesto": "12.000 FC Points (USD/EUR 99,99)",
+      "fc_points": 12000,
+      "sobres": 30,
+      "p_de_sacarlo_pct": 7.86
+    },
+    {
+      "presupuesto": "18.500 FC Points (USD/EUR 149,99)",
+      "fc_points": 18500,
+      "sobres": 46,
+      "p_de_sacarlo_pct": 11.79
+    },
+    {
+      "presupuesto": "5 x 18.500 FC Points (USD/EUR 749,95)",
+      "fc_points": 92500,
+      "sobres": 231,
+      "p_de_sacarlo_pct": 46.74
+    }
+  ],
+  "sensibilidad": [
+    {
+      "peso_relativo_de_un_91": 1.0,
+      "uno_en_N_large_gold": 2670,
+      "fc_points_media": 400568,
+      "usd_media_paquete_18500": 3247.63
+    },
+    {
+      "peso_relativo_de_un_91": 0.5,
+      "uno_en_N_large_gold": 5341,
+      "fc_points_media": 801136,
+      "usd_media_paquete_18500": 6495.27
+    },
+    {
+      "peso_relativo_de_un_91": 0.25,
+      "uno_en_N_large_gold": 10682,
+      "fc_points_media": 1602273,
+      "usd_media_paquete_18500": 12990.53
+    },
+    {
+      "peso_relativo_de_un_91": 0.1,
+      "uno_en_N_large_gold": 26705,
+      "fc_points_media": 4005682,
+      "usd_media_paquete_18500": 32476.34
+    }
+  ],
+  "referencia": {
+    "precio_juego_usd": 69.99,
+    "usd_por_fc_point_18500": 0.008108,
+    "usd_por_fc_point_12000": 0.008332
+  }
+}
